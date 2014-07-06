@@ -1,0 +1,52 @@
+% !TeX program = XeLaTeX
+% !TeX root = nAmA.tex
+\pagenumbering{Roman}
+\thispagestyle{empty}
+
+\begin{titlepage}
+%\ThisCenterWallPaper{0.7}{ShriRama.jpg}
+\vspace*{6.5cm}\centerline{\font\x="Sanskrit 2003:script=deva,mapping=tex-text" at 48pt \x नामावलिसङ्ग्रहः}
+\end{titlepage}
+%\clearemptydoublepage
+%Uncomment these for producing PDF for electronic circulation
+\vspace*{5cm}
+%\addtolength{\evensidemargin}{-0.5cm}
+%\addtolength{\oddsidemargin}{0.5cm}
+\begin{center}
+
+\parbox{10cm}{\subsection*{\fontspec{Minion Pro}{\textsc{Colophon}}}
+\noindent \fontspec{Cronos Pro} This document was typeset using \XeLaTeX, and uses the Sanskrit 2003 font extensively.
+
+
+\begin{center}
+\fontspec{Cronos Pro}
+{\fontspec[Script=Devanagari]{Sanskrit 2003} नामावलिसङ्ग्रहः} is also available online (in PDF format) at: 
+
+\url{http://code.google.com/p/stotra/}
+
+%and also from
+
+%\url{http://stotrasamhita.net/}
+
+
+\vspace*{1cm}
+
+{\scshape{For Personal Use Only\\
+ Not For Commercial Printing/Distribution}}
+\end{center}
+}
+\end{center}
+\clearemptydoublepage
+\setcounter{page}{0}
+\pagenumbering{roman}
+\renewcommand{\chaptermark}[1]{%
+\markboth{#1}{}}
+\pdfbookmark[1]{Contents}{Contents}
+\begin{center}
+\begin{large}
+\tableofcontents
+\end{large}
+\end{center}
+
+\mbox{}
+\clearpage
