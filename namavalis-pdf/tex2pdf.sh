@@ -2,7 +2,7 @@
 find ../100 -name "*.tex" | while read fpath
 do
 fname=`basename $fpath`
-SSURL=`echo $fname | sed 's/.tex//;s/divyasthaniya_108/Ashtottara_Shatadivyasthaniya_Namavali/;s/108/Ashtottara_Shatanamavali/'`
+SSURL=`echo $fname | sed 's/.tex//;s/divyasthaniya_108/Ashtottara_Shatadivyasthaniya_Namavali/;s/100/Shatanamavali/;s/108/Ashtottara_Shatanamavali/'`
 echo "---------------------------------------------------------------"
 echo "File path         : $fpath"
 jobname=`echo $fname | sed 's/.tex//'`
