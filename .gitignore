@@ -90,3 +90,5 @@ sympy-plots-for-*.tex/
 
 #ITRANS source files
 *.itx
+*.sublime-workspace
+namavali-manjari.sublime-project
