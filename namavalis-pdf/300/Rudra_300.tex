@@ -1,14 +1,8 @@
-% !TeX program = XeLaTeX
-% !TeX root = nAmA.tex
+\documentclass[a5paper,twoside,12pt]{book}
 \usepackage{shloka}
-\usepackage{wallpaper}
 
 %%% PAGE SIZE and MARGINS %%%
-\setmainfont[Script=Devanagari]{Sanskrit 2003}
-\newfontscript{Devanagari}{deva,dev2}
-
-%\addtolength{\evensidemargin}{-0.5cm}
-%\addtolength{\oddsidemargin}{0.5cm}
+\usepackage[top=1.5cm, bottom=1.8cm, left=1.5cm, right=1.5cm]{geometry}
 %%% HEADERS and FOOTERS %%%
 \usepackage{fancyhdr}
 \pagestyle{fancyplain}
@@ -65,14 +59,31 @@
 \makeatother
 
 %%% HYPERLINKS %%%
-\usepackage[a5paper,bookmarks=true,bookmarksopen=true,xetex,colorlinks=true,
-linkcolor=black,					% colour of internal links
-citecolor=cyan,					% colour of links to bibliography
+\usepackage[bookmarks=true,bookmarksopen=true,xetex,colorlinks=true,
+linkcolor=black,			% colour of internal links
+citecolor=cyan,				% colour of links to bibliography
 filecolor=magenta,			% colour of file links
-urlcolor=black					% colour of external links
+urlcolor=blue				% colour of external links
 ]{hyperref}
 
 %%% MISCELLANEOUS %%%
 \hbadness=10000
 \vbadness=10000
 %\listfiles
+
+\addtolength{\headsep}{14pt}
+\setlength{\parskip}{4pt}
+\begin{document}
+\setmainfont[Script=Devanagari,Mapping=tex-text]{Sanskrit 2003}
+\fontsize {16}{19.25}\selectfont
+\input{"../300/Rudra_300.tex"}
+\vfill
+\hrule
+\footnotesize
+\urlstyle{sf}
+\noindent\textsf{This stotra can be accessed in multiple scripts at:\\
+\url{http://stotrasamhita.net/wiki/Rudra_Trishati_Namavali}. This PDF was downloaded from \url{http://stotrasamhita.github.io/}\\[1ex]
+Facebook: \url{http://facebook.com/StotraSamhita}\\[0.7ex]
+GitHub: \url{http://stotrasamhita.github.io/}~|~\url{http://github.com/stotrasamhita}\\[0.7ex]
+Credits: \url{http://stotrasamhita.net/wiki/StotraSamhita:About}}
+\end{document}
