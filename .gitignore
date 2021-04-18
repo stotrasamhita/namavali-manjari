@@ -92,3 +92,4 @@ sympy-plots-for-*.tex/
 *.itx
 *.sublime-workspace
 namavali-manjari.sublime-project
+*.xdv
