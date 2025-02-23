@@ -1,0 +1,17 @@
+% !TeX program = XeLaTeX
+% !TeX root = nAmA-kindle.tex
+\documentclass[oneside,12pt]{book}
+\usepackage[paperwidth=140mm,paperheight=185mm,left=4mm,right=4mm,top=9mm,bottom=10mm]{geometry}
+\addtolength{\headsep}{-4mm}
+\input{preamble}
+\addtolength{\headsep}{14pt}
+\setlength{\parskip}{4pt}
+\begin{document}
+\input{frontmatter}
+\Large
+\setmainfont[Script=Devanagari,Mapping=tex-text]{Sanskrit 2003}
+%\setmainfont[Script=Devanagari,Mapping=tex-text]{Siddhanta}
+\input{nAmAvalis}
+\newpage\mbox{}
+\clearemptydoublepage
+\end{document}
