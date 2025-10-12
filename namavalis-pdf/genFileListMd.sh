@@ -12,6 +12,6 @@ BEGIN{lastnum=0; titles[100]="###Shata Namavalis"; titles[1000]="###Sahasra Nama
 	sub(/.pdf/,"",deityName)
 	gsub(/_/," ",deityName)
 	gsub(/[A-Z]/," &",deityName)
-	print ("*" deityName, "[A5 PDF](https://github.com/stotrasamhita/namavali-manjari/raw/master/namavalis-pdf/" $2 "/" $3 ")", "[Kindle PDF](https://github.com/stotrasamhita/namavali-manjari/raw/master/namavalis-kindle-pdf/" $2 "/" $3 ")")
+	print ("*" deityName, "[A5 PDF](https://github.com/stotrasamhita/namavali-manjari/raw/master/namavalis-pdf/" $2 "/" $3 ")", "[Kindle PDF](https://github.com/stotrasamhita/namavali-manjari/raw/master/namavalis-kindle-pdf/" $2 "/" $3 ")" , "[Kindle Scribe PDF](https://github.com/stotrasamhita/namavali-manjari/raw/master/namavalis-kindle-scribe-pdf/" $2 "/" $3 ")")
 }'
 
