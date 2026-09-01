@@ -35,10 +35,10 @@ Also at the root:
 
 | Source | Output | Notes |
 |---|---|---|
-| `nAmA.tex` | [`nAmA.pdf`](https://github.com/stotrasamhita/namavali-manjari/blob/master/nAmA.pdf) | Default digital edition (A5, twoside). |
-| `nAmA-print.tex` | [`nAmA-print.pdf`](https://github.com/stotrasamhita/namavali-manjari/blob/master/nAmA-print.pdf) | Same A5 page, with wider gutter margins for physical binding. |
-| `nAmA-kindle.tex` | [`nAmA-kindle.pdf`](https://github.com/stotrasamhita/namavali-manjari/blob/master/nAmA-kindle.pdf) | Kindle paperback size (126×168mm). |
-| `nAmA-kindle-scribe.tex` | [`nAmA-kindle-scribe.pdf`](https://github.com/stotrasamhita/namavali-manjari/blob/master/nAmA-kindle-scribe.pdf) | Larger page (140×185mm) for the Kindle Scribe's screen. |
+| `nAmA.tex` | [📄 `nAmA.pdf`](https://github.com/stotrasamhita/namavali-manjari/blob/master/nAmA.pdf) | Default digital edition (A5, twoside). |
+| `nAmA-print.tex` | [📄 `nAmA-print.pdf`](https://github.com/stotrasamhita/namavali-manjari/blob/master/nAmA-print.pdf) | Same A5 page, with wider gutter margins for physical binding. |
+| `nAmA-kindle.tex` | [📄 `nAmA-kindle.pdf`](https://github.com/stotrasamhita/namavali-manjari/blob/master/nAmA-kindle.pdf) | Kindle paperback size (126×168mm). |
+| `nAmA-kindle-scribe.tex` | [📄 `nAmA-kindle-scribe.pdf`](https://github.com/stotrasamhita/namavali-manjari/blob/master/nAmA-kindle-scribe.pdf) | Larger page (140×185mm) for the Kindle Scribe's screen. |
 
 All four `\input` the same `frontmatter.tex`, `preamble.tex`, and `nAmAvalis.tex` — they differ only in page geometry.
 
