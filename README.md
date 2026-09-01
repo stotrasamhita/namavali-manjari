@@ -61,6 +61,23 @@ To regenerate the per-deity single PDFs: `cd namavalis-pdf && ./tex2pdf.sh` (and
 
 The colophon in `frontmatter.tex` states the book is available online at the StotraSamhita site and is "For Personal Use Only — Not For Commercial Printing/Distribution."
 
+## 📑 Index
+
+**Jump to:** [What's here](#whats-here) · [Editions](#editions) · [Per-deity single PDFs](#per-deity-single-pdfs) · [Building](#building) · [Usage](#usage)
+
+**All release PDFs:**
+
+| Edition | PDF |
+|---|---|
+| Default digital | [📄 nAmA.pdf](https://github.com/stotrasamhita/namavali-manjari/blob/master/nAmA.pdf) |
+| Print | [📄 nAmA-print.pdf](https://github.com/stotrasamhita/namavali-manjari/blob/master/nAmA-print.pdf) |
+| Kindle | [📄 nAmA-kindle.pdf](https://github.com/stotrasamhita/namavali-manjari/blob/master/nAmA-kindle.pdf) |
+| Kindle Scribe | [📄 nAmA-kindle-scribe.pdf](https://github.com/stotrasamhita/namavali-manjari/blob/master/nAmA-kindle-scribe.pdf) |
+
+Every individual nāmāvali as its own PDF: [namavalis-pdf/](namavalis-pdf/README.md) (A5/print) · [namavalis-kindle-pdf/](namavalis-kindle-pdf/README.md) (Kindle) · [namavalis-kindle-scribe-pdf/](namavalis-kindle-scribe-pdf/README.md) (Kindle Scribe) — 54 nāmāvalis each
+
+**Read it online, in multiple scripts:** [stotrasamhita.github.io/namavalis](https://stotrasamhita.github.io/namavalis/) — the web edition renders the text with a live Devanāgarī/Tamil/Telugu/Kannada/Malayalam/IAST script switcher.
+
 ---
 
 *The README.md files on this repo were generated and beautified with Claude.*
