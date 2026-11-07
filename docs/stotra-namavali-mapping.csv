@@ -1,0 +1,78 @@
+text,deity,names,namavali_file,in_book,stotra_source,match,status,notes
+Gakārādi Gaṇapati Sahasranāma,Gaṇeśa,1000,1000/GakaradiGanapati_1000.tex,Y,stotra-sangrahah/stotras/big/GakaradiGanapatiSahasranamaStotram.tex,93.7%,paired,
+Vakratuṇḍa Mahāgaṇapati Sahasranāma,Gaṇeśa,1000,1000/VakratundaMahaganapati_1000.tex,Y,stotra-sangrahah/stotras/big/VakratundaMahaganapatiSahasranamaStotram.tex,77.0%,paired,nāmāvali has 1018 names (numbering runs to 1010); lowest match of the pairs: check in Phase D2
+Rāma Sahasranāma,Rāma,1000,1000/Rama_1000.tex,Y,,,nāmāvali only,no Rāma sahasranāma stotra in the sources; nāmāvali has 1018 names (numbering to 1010)
+Viṣṇu Sahasranāma,Viṣṇu,1000,1000/Vishnu_1000.tex,Y,stotra-sangrahah/stotras/big/VishnuSahasranamaStotram.tex,91.9%,paired,"also Mahābhārata Anuśāsana-parva (Mahabharatam repo); root has Vishnu_1000_annotated.tex, a standalone edition, not in the book"
+Śiva Sahasranāma (Mahābhārata),Śiva,1008,1000/Shiva_1008.tex,Y,stotra-sangrahah/stotras/big/ShivaSahasranamaStotram.tex,85.7%,paired,Mahābhārata (Upamanyu) recension; the Viṣṇu-kṛta Śiva sahasranāma matches only 35%
+Ṣaṇmukha Sahasranāma,Subrahmaṇya,1000,1000/Shanmukha_1000.tex,Y,,,nāmāvali only,no Ṣaṇmukha sahasranāma stotra in the sources
+Sarasvatī Sahasranāma,Sarasvatī,1008,1000/Saraswati_1008.tex,Y,stotra-sangrahah/stotras/big/SaraswatiSahasranamaStotram.tex,98.9%,paired,Skanda Purāṇa
+Lalitā Triśatī,Lalitā,300,300/Lalita_300.tex,Y,stotra-sangrahah/stotras/big/LalitaTrishati.tex,99.0%,paired,
+Rudra Triśatī,Śiva,300,300/Rudra_300.tex,N (used in puja-vidhanam),vedamantra-book/mantras/RudraPrashnah.tex,n/a (Vedic accents),paired (Vedic),"names drawn from the Śrī Rudra praśna (namakam), with svaras; _compact variant 300/Rudra_300_compact.tex is \input by the Śivarātri 2nd-yāma pūjā. Pairing a Vedic praśna as its ""stotra"" is an editorial choice"
+Ādi Śaṅkarācārya Aṣṭottaraśata,Ādi Śaṅkara,108,100/AdiShankaracharya_108.tex,Y,stotra-sangrahah/stotras/shatanama/ShankaracharyaAshtottaraShatanamaStotram.tex,98.1%,paired,109 नमः lines (one extra)
+Āñjaneya Aṣṭottaraśata,Hanumān,108,100/Anjaneya_108.tex,Y,stotra-sangrahah/stotras/shatanama/AnjaneyaAshtottaraShatanamaStotram.tex,96.3%,paired,also \input by Rāmāyaṇa-ratnākara
+Āñjaneya Aṣṭottaraśata (Rāmarahasya),Hanumān,108,100/Anjaneya_Ramarahasya_108.tex,Y,,,nāmāvali only,from the Rāmarahasya Upaniṣad; no stotra form in the sources; \input by Rāmāyaṇa-ratnākara
+Annapūrṇā Aṣṭottaraśata,Annapūrṇā,108,100/Annapurna_108.tex,Y,stotra-sangrahah/stotras/shatanama/AnnapurnaAshtottaraShatanamaStotram.tex,97.2%,paired,
+Ardhanārīśvara Aṣṭottaraśata,Ardhanārīśvara,108 (pairs: 216),100/Ardhanarishvara_108.tex,Y,stotra-sangrahah/stotras/shatanama/ArdhanarishvaraAshtottaraShatanamaStotram.tex,99.5%,paired,"each of the 108 is a Śiva + Śakti pair, hence 216 नमः"
+Candraśekharendra Sarasvatī Aṣṭottaraśata,Guru,108,100/ChandrashekharendraSaraswati_108.tex,Y,,,nāmāvali only,no stotra in the sources (modern composition)
+Dakṣiṇāmūrti Aṣṭottaraśata,Dakṣiṇāmūrti,108,100/Dakshinamurti_108.tex,Y,,,nāmāvali only,
+Devasenā Aṣṭottaraśata,Devasenā,108,100/Devasena_108.tex,Y,,,nāmāvali only,
+Dhanvantari Aṣṭottaraśata,Dhanvantari,108,100/Dhanvantari_108.tex,Y,stotra-sangrahah/stotras/shatanama/DhanvantariAshtottaraShatanamaStotram.tex,99.1%,paired,111 names (D1: kept as is); \input by the Dhanvantari pūjā
+Durgā Aṣṭottaraśata,Durgā,108,100/Durga_108.tex,N (used in puja-vidhanam),stotra-sangrahah/stotras/shatanama/DurgaAshtottaraShatanamaStotram.tex,81.5%,paired (different recension),D1: the nāmāvali follows another recension than the stotra; \input by the Sarasvatī pūjā. Source choice needed
+Gakārādi Gaṇapati Aṣṭottaraśata,Gaṇeśa,108,100/GakaradiGanapati_108.tex,Y,stotra-sangrahah/stotras/shatanama/GanapatiGakaraAshtottaraShatanamaStotram.tex,100%,paired,
+Gaṇapati Aṣṭottaraśata,Gaṇeśa,108,100/Ganapati_108.tex,Y,stotra-sangrahah/stotras/shatanama/GanapatiAshtottaraShatanamaStotram.tex,99.1%,paired,Gaṇeśa Purāṇa
+Gaṇapati Aṣṭottaraśata (2),Gaṇeśa,108,100/Ganesha_108.tex,N,,,nāmāvali only,same title as Ganapati_108 but a different list; GaneshaAshtottaraShatanamaStotram matches only 11%
+Gaṅgā Aṣṭottaraśata,Gaṅgā,108,100/Ganga_108.tex,Y,stotra-sangrahah/stotras/shatanama/GangaAshtottaraShatanamaStotram.tex,99.1%,paired,\input by the Gaṅgā pūjā
+Gaṅgā Aṣṭottaraśata (2),Gaṅgā,108,100/Ganga_108_2.tex,N (used in puja-vidhanam),,,nāmāvali only,"a second list, \input by the Gaṅgā pūjā before Ganga_108"
+Godā Aṣṭottaraśata,Godā,108,100/Goda_108.tex,Y,stotra-sangrahah/stotras/shatanama/GodaAshtottaraShatanamaStotram.tex,99.1%,paired,112 names (D1: kept as is)
+Harihara Aṣṭottaraśata,Harihara,108,100/Harihara_108.tex,Y,stotra-sangrahah/stotras/shatanama/HariharaAshtottaraShatanamaStotram.tex,99.1%,paired,Skanda Purāṇa
+Jagadānandakāraka Śatanāma,Rāma,100,100/Jagadanandakaraka_100.tex,Y,,,nāmāvali only,names from Tyāgarāja's kṛti जगदानन्दकारक; the kṛti is not in the sources
+Kāmākṣī Aṣṭottaraśata,Kāmākṣī,108,100/Kamakshi_108.tex,N (used in puja-vidhanam),,,nāmāvali only,\input by the Sāvitrī vrata
+Kārttikeya Aṣṭottaraśata,Subrahmaṇya,108,100/Kartikeya_108.tex,Y,stotra-sangrahah/stotras/shatanama/KarttikeyaAshtottaraShatanamaStotram.tex,95.4%,paired,
+Kāverī Aṣṭottaraśata,Kāverī,108,100/Kaveri_108.tex,N (used in puja-vidhanam),,,nāmāvali only,\input by the Kāverī pūjā; not in Tulā-Kāverī-māhātmya either
+Kṛṣṇa Aṣṭottaraśata,Kṛṣṇa,108,100/Krishna_108.tex,Y,stotra-sangrahah/stotras/shatanama/KrishnaAshtottaraShatanamaStotram.tex,91.7%,paired,Brahmāṇḍa Purāṇa; \input by the Janmāṣṭamī and Ekādaśī pūjās
+Kubera Aṣṭottaraśata,Kubera,108,100/Kubera_108.tex,Y,,,nāmāvali only,109 names (D1); \input by the Lakṣmī-Kubera pūjā
+Lakṣmī Aṣṭottaraśata,Lakṣmī,108,100/Lakshmi_108.tex,Y,stotra-sangrahah/stotras/shatanama/LakshmiAshtottaraShatanamaStotram.tex,98.1%,paired,\input by three pūjās
+Lakṣmī-Nṛsiṃha Aṣṭottaraśata,Nṛsiṃha,108,100/LakshmiNrisimha_108.tex,Y,stotra-sangrahah/stotras/shatanama/NrisimhaAshtottaraShatanamaStotram.tex,54.6%,uncertain,"about half the names are in the Nṛsiṃha stotram, often out of order: a related list, not derived from it?"
+Mṛtyuñjaya Aṣṭottaraśata,Śiva,108,100/Mrtyunjaya_108.tex,Y,,,nāmāvali only,"header names a मृत्युञ्जयाष्टोत्तरदिव्यनामस्तोत्र (from a Śiva-pūjā-vidhāna), not in the sources"
+Nṛsiṃha Aṣṭottaraśata,Nṛsiṃha,108,100/Nrisimha_108.tex,Y,,,nāmāvali only,title duplicates LakshmiNrisimha_108 (श्री-लक्ष्मी-नृसिंह…); name 92 is a --- placeholder (D1 #31); Nṛsiṃha stotram matches 12%
+Rāma Aṣṭottaraśata,Rāma,108,100/Rama_108.tex,Y,stotra-sangrahah/stotras/shatanama/RamaAshtottaraShatanamaStotram.tex,95.6%,paired,113 names (D1: kept); \input by Rāmāyaṇa-ratnākara
+Rāma Aṣṭottaraśata (Rāmarahasya),Rāma,108,100/Rama_Ramarahasya_108.tex,Y,,,nāmāvali only,Rāmarahasya Upaniṣad; \input by Rāmāyaṇa-ratnākara
+Sarasvatī Aṣṭottaraśata,Sarasvatī,108,100/Saraswati_108.tex,Y,stotra-sangrahah/stotras/shatanama/SaraswatiAshtottaraShatanamaStotram.tex,99.1%,paired,\input by the Sarasvatī pūjā
+Śakti Aṣṭottaraśata Divyasthānīya,Śakti,108,100/Shakti_divyasthaniya_108.tex,Y,stotra-sangrahah/stotras/shatanama/ShaktiAshtottaraShatadivyasthaniyaNamaStotram.tex,39.8% (place + name),paired,"Matsya Purāṇa; low match is the matcher (each name is place + name), the pairing is certain"
+Śiva Aṣṭottaraśata,Śiva,108,100/Shiva_108.tex,Y,stotra-sangrahah/stotras/shatanama/ShivaAshtottaraShatanamaStotram.tex,93.5%,paired,\input by the Śivarātri pūjā
+Śiva Aṣṭottaraśata Divyasthānīya,Śiva,108,100/Shiva_divyasthaniya_108.tex,Y,stotra-sangrahah/stotras/shatanama/ShivaAshtottaraShatadivyasthaniyaNamaStotram.tex,53.0% (place + name),paired,only 100 names (D1 #23–24 open)
+Sītā Aṣṭottaraśata,Sītā,108,100/Sita_108.tex,Y,stotra-sangrahah/stotras/shatanama/SitaAshtottaraShatanamaStotram.tex,97.3%,paired,Ānanda Rāmāyaṇa; 111 names (D1: kept); \input by Rāmāyaṇa-ratnākara
+Sītā Aṣṭottaraśata (Rāmarahasya),Sītā,108,100/Sita_Ramarahasya_108.tex,Y,,,nāmāvali only,Rāmarahasya Upaniṣad; \input by Rāmāyaṇa-ratnākara
+Subrahmaṇya Aṣṭottaraśata,Subrahmaṇya,108,100/Subrahmanya_108.tex,Y,stotra-sangrahah/stotras/shatanama/SubrahmanyaAshtottaraShatanamaStotram.tex,98.1%,paired,
+Subrahmaṇya Hastasthita Astrāyudha Aṣṭottaraśata,Subrahmaṇya,108,100/SubrahmanyaHastasthitaAstrayudha_108.tex,Y,,,nāmāvali only,the weapons in Subrahmaṇya's hands
+Sūrya Aṣṭottaraśata,Sūrya,108,100/Surya_108.tex,Y,,,nāmāvali only,not derived from the Āditya (Bhaviṣya) stotram (13%) or the Mahābhārata one; \input by Sūrya-namaskāra
+Sūrya Aṣṭottaraśata (Mahābhārata),Sūrya,108,100/Surya_Mahabharatam_108.tex,Y,stotra-sangrahah/stotras/shatanama/SuryaAshtottaraShatanamaStotram.tex,89.1%,paired,Āraṇyaka-parva; 110 names (D1: kept)
+Tulasī Aṣṭottaraśata,Tulasī,108,100/Tulasi_108.tex,Y,stotra-sangrahah/stotras/shatanama/TulasiAshtottaraShatanamaStotram.tex,99.1%,paired,\input by the Bṛndāvana pūjā
+Vallī Aṣṭottaraśata,Vallī,108,100/Valli_108.tex,Y,,,nāmāvali only,
+Veṅkaṭeśa Aṣṭottaraśata,Veṅkaṭeśa,108,100/Venkatesha_108.tex,Y,stotra-sangrahah/stotras/shatanama/VenkateshaAshtottaraShatanamaStotram.tex,94.5%,paired,109 names (D1: kept)
+Veṅkaṭeśa Aṣṭottaraśata (Varāha Purāṇa),Veṅkaṭeśa,108,100/Venkateshwara_108.tex,Y,,,nāmāvali only,different list from Venkatesha_108 (VenkateshaAshtottara matches 7%)
+Viṣṇu Aṣṭottaraśata Divyasthānīya,Viṣṇu,108,100/Vishnu_divyasthaniya_108.tex,Y,stotra-sangrahah/stotras/shatanama/VishnuAshtottaraShatadivyasthaniyaNamaStotram.tex,46.4% (place + name),paired,112 names (D1: kept)
+Vyāsa Aṣṭottaraśata,Vyāsa,108,100/Vyasa_108.tex,N,stotra-sangrahah/stotras/shatanama/VyasaAshtottaraShatanamaStotram.tex,97.2%,paired,nāmāvali exists but is not in the book
+Sundara-Hanumān Mahāmantra-nāma,Hanumān,27,small/SundaraHanuman_27.tex,N,stotra-sangrahah/stotras/hanuman/SundaraHanumanMahaMantraNamaStotram.tex,92.6%,paired,title in the file says हनुमदष्टोत्तरशतनामावलिः (wrong)
+Āditya Aṣṭottaraśata (Bhaviṣya Purāṇa),Sūrya,108,,,stotra-sangrahah/stotras/shatanama/AdityaAshtottaraShatanamaStotram.tex,,stotra only,
+Gaṇeśa Aṣṭottaraśata,Gaṇeśa,108,,,stotra-sangrahah/stotras/shatanama/GaneshaAshtottaraShatanamaStotram.tex,,stotra only,not the source of Ganesha_108
+Gaurī Aṣṭottaraśata,Gaurī,108,,,stotra-sangrahah/stotras/shatanama/GauriAshtottaraShatanamaStotram.tex,,stotra only,
+Hariharaputra Aṣṭottaraśata,Śāstā,108,,,stotra-sangrahah/stotras/shatanama/HariharaputraAshtottaraShatanamaStotram.tex,,stotra only,
+Hayagrīva Aṣṭottaraśata,Hayagrīva,108,,,stotra-sangrahah/stotras/shatanama/HayagrivaAshtottaraShatanamaStotram.tex,,stotra only,
+Lakṣmī-Nārāyaṇa Aṣṭottaraśata,"Lakṣmī, Viṣṇu",108,,,stotra-sangrahah/stotras/shatanama/LakshmiNarayanaAshtottaraShatanamaStotram.tex,,stotra only,
+Nṛsiṃha Aṣṭottaraśata,Nṛsiṃha,108,,,stotra-sangrahah/stotras/shatanama/NrisimhaAshtottaraShatanamaStotram.tex,,stotra only (?),unless LakshmiNrisimha_108 counts as its nāmāvali (55% match)
+Śrīraṅgarāja Aṣṭottaraśata-nāma-ratna,Raṅganātha,108,,,TulaKaveriMahatmyam/TulaKaveriMahatmyam.tex (adhyāya 16),,stotra only,"inside the Tulā-Kāverī-māhātmya, not a separate file"
+Sūrya Sahasranāma,Sūrya,1000,,,stotra-sangrahah/stotras/big/SuryaSahasranamaStotram.tex,,stotra only,Bhaviṣya Purāṇa
+Śiva Sahasranāma (Viṣṇu-kṛta),Śiva,1000,,,stotra-sangrahah/stotras/big/ShivaSahasranamaStotram-VishnuKrtam.tex,,stotra only,
+Candra Aṣṭāviṃśati-nāma,Candra,28,,,stotra-sangrahah/stotras/navagraha/ChandraAshtavimshatiNamaStotram.tex,,stotra only (small),short nāma-stotras: include in scope?
+Budha Pañcaviṃśati-nāma,Budha,25,,,stotra-sangrahah/stotras/navagraha/BudhaPanchavimshatiNamaStotram.tex,,stotra only (small),
+Śukra Caturviṃśati-nāma,Śukra,24,,,stotra-sangrahah/stotras/navagraha/ShukraChaturvimshatiNamaStotram.tex,,stotra only (small),
+Rāhu Pañcaviṃśati-nāma,Rāhu,25,,,stotra-sangrahah/stotras/navagraha/RahuPanchavimshatiNamaStotram.tex,,stotra only (small),
+Ketu Pañcaviṃśati-nāma,Ketu,25,,,stotra-sangrahah/stotras/navagraha/KetuPanchavimshatiNamaStotram.tex,,stotra only (small),
+Aṅgāraka (21 names),Aṅgāraka,21,,,stotra-sangrahah/stotras/navagraha/AngarakaStotram.tex,,stotra only (small),count to check
+Bṛhaspati nāma-stotra,Bṛhaspati,?,,,stotra-sangrahah/stotras/navagraha/BrihaspatiStotram.tex,,stotra only (small),count to check
+Subrahmaṇya Ṣoḍaśa-nāma,Subrahmaṇya,16,,,stotra-sangrahah/stotras/subrahmanya/SubrahmanyaShodashaNamaStotram.tex,,stotra only (small),
+Kṛṣṇa Dvādaśa-nāma,Kṛṣṇa,12,,,stotra-sangrahah/stotras/krishna/KrishnaDwadashaNamaStotram.tex,,stotra only (small),
+Rāma Dvādaśa-nāma,Rāma,12,,,stotra-sangrahah/stotras/rama/RamaDwadashaNamaStotram.tex,,stotra only (small),
+Veṅkaṭeśa Dvādaśa-nāma,Veṅkaṭeśa,12,,,stotra-sangrahah/stotras/venkatesha/VenkateshaDwadashaNamaStotram.tex,,stotra only (small),
+Kārtavīryārjuna Dvādaśa-nāma,Kārtavīryārjuna,12,,,stotra-sangrahah/stotras/other/KartaviryarjunaStotram.tex,,stotra only (small),
